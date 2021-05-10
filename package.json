@@ -4,6 +4,6 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "start": "http-server"
+    "start": "http-server ./public_html"
   }
 }
