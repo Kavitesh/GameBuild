@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "http-server": "*"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "start": "http-server"
+  }
+}
